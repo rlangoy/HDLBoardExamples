@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "AND Gate Truth Table Testbench (VHDL)",
+  "board": "DE1-SoC",
+  "description": "Tests the AND gate and prints its truth table. Copies the AND gate too.",
+  "projectDirectory": "AND-Gate-Truth-Table-Testbench-VHDL",
+  "sourceDirectory": "src",
+  "files": [
+    {
+      "name": "and_gate_truthtable_tb.vhd",
+      "url": "",
+      "description": "Tests the AND gate and prints its truth table. Copies the AND gate too."
+    },
+    {
+      "name": "and_gate.vhdl",
+      "url": "",
+      "description": "Basic AND gate implementation."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "DE1-SoC Top Level (Verilog)",
+  "board": "DE1-SoC",
+  "description": "The board's top-level interface, with the switches wired to the LEDs.",
+  "projectDirectory": "DE1-SoC-Top-Level-Verilog",
+  "sourceDirectory": "src",
+  "files": [
+    {
+      "name": "DE1_SoC.v",
+      "url": "",
+      "description": "The board's top-level interface, with the switches wired to the LEDs."
+    }
+  ]
+}

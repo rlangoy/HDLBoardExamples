@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "AND Gate Truth Table Testbench (Verilog)",
+  "board": "DE1-SoC",
+  "description": "Tests the AND gate and prints its truth table. Copies the AND gate too.",
+  "projectDirectory": "AND-Gate-Truth-Table-Testbench-Verilog",
+  "sourceDirectory": "src",
+  "files": [
+    {
+      "name": "and_gate_truthtable_tb.v",
+      "url": "",
+      "description": "Tests the AND gate and prints its truth table. Copies the AND gate too."
+    },
+    {
+      "name": "and_gate.v",
+      "url": "",
+      "description": "Basic AND gate implementation."
+    }
+  ]
+}

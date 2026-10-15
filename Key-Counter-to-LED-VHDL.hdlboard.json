@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "Key Counter to LED (VHDL)",
+  "board": "DE1-SoC",
+  "description": "Counts key presses and displays the count on the LEDs.",
+  "projectDirectory": "Key-Counter-to-LED-VHDL",
+  "sourceDirectory": "src",
+  "files": [
+    {
+      "name": "keyCouter2Led.vhdl",
+      "url": "",
+      "description": "Counts key presses and displays the count on the LEDs."
+    }
+  ]
+}

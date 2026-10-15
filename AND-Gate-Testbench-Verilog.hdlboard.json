@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "AND Gate Testbench (Verilog)",
+  "board": "DE1-SoC",
+  "description": "Self-checking testbench for the AND gate. Copies the AND gate too.",
+  "projectDirectory": "AND-Gate-Testbench-Verilog",
+  "sourceDirectory": "src",
+  "files": [
+    {
+      "name": "and_gate_tb.v",
+      "url": "",
+      "description": "Self-checking testbench for the AND gate. Copies the AND gate too."
+    },
+    {
+      "name": "and_gate.v",
+      "url": "",
+      "description": "Basic AND gate implementation."
+    }
+  ]
+}

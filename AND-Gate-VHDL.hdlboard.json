@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "AND Gate (VHDL)",
+  "board": "DE1-SoC",
+  "description": "Basic AND gate implementation.",
+  "projectDirectory": "AND-Gate-VHDL",
+  "sourceDirectory": "src",
+  "files": [
+    {
+      "name": "and_gate.vhdl",
+      "url": "",
+      "description": "Basic AND gate implementation."
+    }
+  ]
+}

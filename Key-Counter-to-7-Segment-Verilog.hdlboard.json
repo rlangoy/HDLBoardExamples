@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "Key Counter to 7-Segment (Verilog)",
+  "board": "DE1-SoC",
+  "description": "Press KEY0 to count up on the 7-segment displays (00-99); KEY1 resets.",
+  "projectDirectory": "Key-Counter-to-7-Segment-Verilog",
+  "sourceDirectory": "src",
+  "files": [
+    {
+      "name": "keyCounter7Seg.v",
+      "url": "",
+      "description": "Press KEY0 to count up on the 7-segment displays (00-99); KEY1 resets."
+    }
+  ]
+}

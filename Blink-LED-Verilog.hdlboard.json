@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "Blink LED (Verilog)",
+  "board": "DE1-SoC",
+  "description": "Simple blinking LED example using a counter.",
+  "projectDirectory": "Blink-LED-Verilog",
+  "sourceDirectory": "src",
+  "files": [
+    {
+      "name": "blinkTest.v",
+      "url": "",
+      "description": "Simple blinking LED example using a counter."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "Blink LED (VHDL)",
+  "board": "DE1-SoC",
+  "description": "Simple blinking LED example using a counter.",
+  "projectDirectory": "Blink-LED-VHDL",
+  "sourceDirectory": "src",
+  "files": [
+    {
+      "name": "blinkTest.vhdl",
+      "url": "",
+      "description": "Simple blinking LED example using a counter."
+    }
+  ]
+}
